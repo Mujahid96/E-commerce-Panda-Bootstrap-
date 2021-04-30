@@ -1,0 +1,22 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.panda-slide .carousel-item,.submit-color{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.btn-gradient{
+    background-image: linear-gradient(#f077a5,#ff1e76);
+    border-radius: .4em;
+    color: white;
+}
